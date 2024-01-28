@@ -14,6 +14,7 @@ _"Say it all, stay incognito."_
 - [Installation](#installation)
 - [Getting Started with React](#getting-started-with-react)
 - [Getting Started with the Server](#getting-started-with-the-server)
+- [Usage](#usage)
 
 ## Description
 
@@ -136,3 +137,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Usage
+
+This is what you will encounter upon arriving at our page.
+<img width="1624" alt="Landing Page" src="https://github.com/sadia-khandaker/NewsFlash/assets/92899511/3a35a118-1d18-4dd8-84a2-9f5da651f57c">
+
+#### Sign-up/Log-in
+Upon arriving at the app's landing page, you will be directed to the login page. Here, you'll need to enter your login credentials. If you're new to the app and don't have an account yet, click the "Sign Up" link that is under the "Log in" button.  
+<img width="1624" alt="Login" src="https://github.com/sadia-khandaker/NewsFlash/assets/92899511/bd1493e0-625b-4383-abe4-9e57f3ec6f02">
+
+Then, you will be asked to provide some basic information to create your account. 
+<img width="1624" alt="Sign-up" src="https://github.com/sadia-khandaker/NewsFlash/assets/92899511/122ed8c7-6e7b-49bc-8b8f-26e9bc3d13b7">
