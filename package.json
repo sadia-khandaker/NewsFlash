@@ -1,0 +1,28 @@
+{
+  "name": "newsflash",
+  "version": "1.0.0",
+  "description": "A social media app called Newsflash to spill the tea on the latest news.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server/index.js"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20",
+    "prop-types": "^15.8.1"
+  }
+}
